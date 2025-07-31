@@ -14,7 +14,6 @@ Credit card fraud is a major financial threat. In this notebook, we explore data
 
 - The dataset used is anonymized and highly imbalanced (very few fraud cases).
 - Features have been transformed using PCA to maintain privacy.
-- Dataset source: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ## ⚙️ Models Used
 
